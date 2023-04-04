@@ -26,7 +26,7 @@ Start the **Android emulator**
 
 ```sh
 # in a new session run
-npx react-native start
+npx react-native run-android
 ```
 
 > Refresh pressing `R` twice in the emulator interface
